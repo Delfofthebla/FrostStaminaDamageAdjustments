@@ -1,0 +1,11 @@
+{
+  "Nickname": "Frost Spell Stamina Damage Adjustments",
+  "Visibility": "Visible",
+  "OneLineDescription": "Reduces (or increases) stamina damage from frost spell effects.",
+  "LongDescription": "Frost spells damaging stamina can feel a little...off when using combat mods that increase the reliance on stamina. This mod can be used to adjust that value (or completely negate it) so that it feels more balanced. The number is completely configurable so you can make it as insanely over or underpowered as you want.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
